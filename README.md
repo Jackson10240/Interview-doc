@@ -2,9 +2,9 @@
 ## 问题一
 
 仓库地址：
-https://github.com/Jackson10240/RateLimiter.git
+- https://github.com/Jackson10240/RateLimiter.git
 
-git@github.com:Jackson10240/RateLimiter.git
+- git@github.com:Jackson10240/RateLimiter.git
 
 
 
@@ -134,6 +134,6 @@ WHERE
 最后牵头和团队一起，定位和解决了该问题。获得集团和公司团队的高度认可。
 
 参考文档：
-https://www.css3.io/rong-qi-mtu-yin-fa-de-fu-wu-di-gai-lv-502-wen-ti-zhui-zong.html
-https://www.cnblogs.com/zoujiaojiao/p/17767398.html
-https://marcuseddie.github.io/2021/K8s-Network-Architecture-section-five.html
+- https://www.css3.io/rong-qi-mtu-yin-fa-de-fu-wu-di-gai-lv-502-wen-ti-zhui-zong.html
+- https://www.cnblogs.com/zoujiaojiao/p/17767398.html
+- https://marcuseddie.github.io/2021/K8s-Network-Architecture-section-five.html
